@@ -1,4 +1,4 @@
-#######################  # PROBLEM 1 ######################
+#Problem 1
 
 # optimal consumption and labor as a function of wage rate
 def star(w):
