@@ -1,6 +1,6 @@
 # Data analysis project
 
-Our project is titled **PROJECT TITLE** and is about EXPLAIN.
+Our project is titled **Comparison of Covid19 death tolls in Scandinavia** and is about EXPLAIN.
 
 The **results** of the project can be seen from running [dataproject.ipynb](dataproject.ipynb).
 
